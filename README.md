@@ -1,1 +1,1 @@
-# chessvbeck
+# chess vs beck
